@@ -6,10 +6,17 @@
 
 
 **Estructura sugerida por Web Starter Kit**
+
 -app
+
 	-fonts (woff,ttf, etc)
+
 	-images (imagenes)
+
 	-scripts (js)
+
 	-styles (scss)
+	
 	*.html
+
 	robots.txt
